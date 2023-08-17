@@ -8,3 +8,5 @@ Hi there 👋, my name is Tom Platt. I am a bootcamp student at School of Code i
 -- 100 Days of Code Challenge --
 
 Day 1: Continued with module 5 on Scrimba's front end career path - creating a twitter clone. Looked at Data attributes, how to create an interactive like button with counter. 
+
+Day 2: Continued with creating a very basic twitter clone. Explored conditional rendering of CSS and how initialise CSS styles using conditional statements in JavaScript. I created a like button which toggles a red heart, a retweet button which glows green when clicked and a reply button which renders the replies onto the page when clicked and hides them when clicked again. 
