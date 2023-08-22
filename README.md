@@ -17,4 +17,4 @@ Day 4: Rendered new tweets onto the twitter clone feed. Adding a new object to t
 
 Day 5: Started a solo project of a restaurant ordering app following a figma design. I rendered the HTML into the browser using JavaScript and created a function which adds a food item to an order which is rendered below. Started to implement a remove function but struggled with this. 
 
-Day 6: Finished implementing the remove item function and allowed for the tracking of the total price of the order. Also styled the app to the figma specifications. 
+Day 6: Finished implementing the remove item function and allowed for the tracking of the total price of the order. Also styled the app to the figma specifications. Added payment modal to appear when complete order button is pressed and used a form input fields to display input information. 
