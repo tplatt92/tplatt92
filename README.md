@@ -18,3 +18,7 @@ Day 4: Rendered new tweets onto the twitter clone feed. Adding a new object to t
 Day 5: Started a solo project of a restaurant ordering app following a figma design. I rendered the HTML into the browser using JavaScript and created a function which adds a food item to an order which is rendered below. Started to implement a remove function but struggled with this. 
 
 Day 6: Finished implementing the remove item function and allowed for the tracking of the total price of the order. Also styled the app to the figma specifications. Added payment modal to appear when complete order button is pressed and used a form input fields to display input information. 
+
+Day 7: Dove deeper into some essential JavaScript concepts. Learnt about object destructuring which enables us to get properties from objects and store into variables. I learnt about the .map(), join() methods and arrow functions and applied them to a variety of different coding exercises. 
+
+Day 8: Learnt about the .reduce() method and completed a challenge which utilised all the learning from the past 2 days. It allowed me to apply object destructuring, .map(), .join(), .reduce() and utilise arrow functions. I then started to learn about the use cases of the ternary operator '?' and used it to refactor examples of code that used if/else statements. 
