@@ -22,3 +22,7 @@ Day 6: Finished implementing the remove item function and allowed for the tracki
 Day 7: Dove deeper into some essential JavaScript concepts. Learnt about object destructuring which enables us to get properties from objects and store into variables. I learnt about the .map(), join() methods and arrow functions and applied them to a variety of different coding exercises. 
 
 Day 8: Learnt about the .reduce() method and completed a challenge which utilised all the learning from the past 2 days. It allowed me to apply object destructuring, .map(), .join(), .reduce() and utilise arrow functions. I then started to learn about the use cases of the ternary operator '?' and used it to refactor examples of code that used if/else statements. 
+
+Day 9: Recapped arrow functions and ternary operators. Completed challenges to gain muscle memory and familiary when writing with the new syntax. 
+
+Day 10: Used Scrimba and learnt about short circuiting with OR (||) and AND (&&) in order to make more concise conditional statements. Completed challenges that allowed me to apply this. 
