@@ -26,3 +26,7 @@ Day 8: Learnt about the .reduce() method and completed a challenge which utilise
 Day 9: Recapped arrow functions and ternary operators. Completed challenges to gain muscle memory and familiary when writing with the new syntax. 
 
 Day 10: Used Scrimba and learnt about short circuiting with OR (||) and AND (&&) in order to make more concise conditional statements. Completed challenges that allowed me to apply this. 
+
+Day 11: Finished module 5 using common constructor functions such as date() as well as looking at how to create my own error() constructors to handle error messages within my code. Continued with FreeCodeCamps data structures and algorithms module and tried to apply the knowledge I have learnt to write some basic algorithmic scripts which I was successful with to varying degrees. Practicing my JS application is definitely something I need to ensure I consistently practice. 
+
+Day 12: Started my day with some codewars challenges to continue my JS application then began Scrimba Module 6 on responsive design. Looked at relative units such as %, em, and rems and their various applications. 
