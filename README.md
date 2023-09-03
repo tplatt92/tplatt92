@@ -32,3 +32,5 @@ Day 11: Finished module 5 using common constructor functions such as date() as w
 Day 12: Started my day with some codewars challenges to continue my JS application then began Scrimba Module 6 on responsive design. Looked at relative units such as %, em, and rems and their various applications. 
 
 Day 13: Signed up to LeetCode and its 30 days of JavaScript problem set. Completed several problems to enhance my understanding of how to approach different problems using JS. 
+
+Day 14: Solved severeal problems on CodeWars using JavaScript. Moved on to 7kyu challenges and learnt about a few new methods along the way including: the unary operator (+) to turn a string into a number; the Number() method which converts a value into a number; as well as applying previous learnt methods such as .map(), .join(), .split(), for loops and arrow functions. 
