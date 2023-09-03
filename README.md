@@ -33,4 +33,4 @@ Day 12: Started my day with some codewars challenges to continue my JS applicati
 
 Day 13: Signed up to LeetCode and its 30 days of JavaScript problem set. Completed several problems to enhance my understanding of how to approach different problems using JS. 
 
-Day 14: Solved severeal problems on CodeWars using JavaScript. Moved on to 7kyu challenges and learnt about a few new methods along the way including: the unary operator (+) to turn a string into a number; the Number() method which converts a value into a number; as well as applying previous learnt methods such as .map(), .join(), .split(), for loops and arrow functions. 
+Day 14: Solved severeal problems on CodeWars using JavaScript. Moved on to 7kyu challenges and learnt about a few new methods to convert values into numbers: the unary operator (+) to turn a string into a number; the Number() and parseInt() methods which offer greater control when converting values into numbers; Math.sqrt(n) which finds the square root of a number; as well as applying previous learnt methods such as .map(), .join(), .split(), for loops and arrow functions. 
