@@ -34,3 +34,7 @@ Day 12: Started my day with some codewars challenges to continue my JS applicati
 Day 13: Signed up to LeetCode and its 30 days of JavaScript problem set. Completed several problems to enhance my understanding of how to approach different problems using JS. 
 
 Day 14: Solved severeal problems on CodeWars using JavaScript. Moved on to 7kyu challenges and learnt about a few new methods to convert values into numbers: the unary operator (+) to turn a string into a number; the Number() and parseInt() methods which offer greater control when converting values into numbers; Math.sqrt(n) which finds the square root of a number; as well as applying previous learnt methods such as .map(), .join(), .split(), for loops and arrow functions. 
+
+Day 15: First day of my School of Code bootcamp. We were introduced to the staff and the challenges that lay ahead, we looked at how to become effective learners and what daily practices to adopt in order to get the most out the bootcamp.
+
+Day 16: Started my day recapping useful string methods, and playing around with them in my dev tools. Methods like .length, finding an integer [], .includes,  and .indexOf. During the second day of the bootcamp we looked at useful developer tools such as AI, git and github. 
