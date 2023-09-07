@@ -38,3 +38,5 @@ Day 14: Solved severeal problems on CodeWars using JavaScript. Moved on to 7kyu 
 Day 15: First day of my School of Code bootcamp. We were introduced to the staff and the challenges that lay ahead, we looked at how to become effective learners and what daily practices to adopt in order to get the most out the bootcamp.
 
 Day 16: Started my day recapping useful string methods, and playing around with them in my dev tools. Methods like .length, finding an integer [], .includes,  and .indexOf. During the second day of the bootcamp we looked at useful developer tools such as AI, git and github. 
+
+Day 17: Day 3 of School of code bootcamp. Had an incredibly interesting talk from Ira Rainey: a senior software engineer at Microsoft. We learnt a lot about imposter syndrome and growth mindset. In the afternoon we experimented with differed tools such as draw.io to help us create effective plans for our code, working collaboratively with others to solve different problems using AGILE. 
