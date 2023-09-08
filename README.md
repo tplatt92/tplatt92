@@ -40,3 +40,5 @@ Day 15: First day of my School of Code bootcamp. We were introduced to the staff
 Day 16: Started my day recapping useful string methods, and playing around with them in my dev tools. Methods like .length, finding an integer [], .includes,  and .indexOf. During the second day of the bootcamp we looked at useful developer tools such as AI, git and github. 
 
 Day 17: Day 3 of School of code bootcamp. Had an incredibly interesting talk from Ira Rainey: a senior software engineer at Microsoft. We learnt a lot about imposter syndrome and growth mindset. In the afternoon we experimented with differed tools such as draw.io to help us create effective plans for our code, working collaboratively with others to solve different problems using AGILE. 
+
+Day 18: Day 4 of School of Code Bootcamp. We dove deeper into using AGILE and other methods such as LEAN and MVP. We then planned our first Hackathon which was to create an escape room game using scratch. We utilised tools such as draw.io to create flow diagrams in order to help us plan out the day and looked at project management tools on Github like milestones and issues. 
