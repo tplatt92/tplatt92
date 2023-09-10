@@ -46,3 +46,5 @@ Day 18: Day 4 of School of Code Bootcamp. We dove deeper into using AGILE and ot
 Day 19: Day 5 of School of Code Bootcamp. Our first hackathon creating an escape room game using scratch. We worked throughout the day to produce a working piece of software with three different rooms. We were very happy with what we produced and presented it back to our cohort reflecting on what went well, what we could improve next time and included a demo of our planning process and the game itself. 
 
 Day 20: With our JavaScript fundamentals week coming up, I reviewed the basics of JavaScript including Primitive values, string methods, the Math Object and simple Boolean logic including conditionals and comparison operators.
+
+Day 21: Continued to review JS fundamentals today I focused on the array and object data structures. I looked at how to access and add/remove data from them and reviewed some important array methods including: push(), pop(), shift(), unshift(), slice(), splice() and more. Tomorrow morning I will review different ways of looping and iterating over data.
