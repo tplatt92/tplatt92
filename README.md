@@ -48,3 +48,5 @@ Day 19: Day 5 of School of Code Bootcamp. Our first hackathon creating an escape
 Day 20: With our JavaScript fundamentals week coming up, I reviewed the basics of JavaScript including Primitive values, string methods, the Math Object and simple Boolean logic including conditionals and comparison operators.
 
 Day 21: Continued to review JS fundamentals today I focused on the array and object data structures. I looked at how to access and add/remove data from them and reviewed some important array methods including: push(), pop(), shift(), unshift(), slice(), splice() and more. Tomorrow morning I will review different ways of looping and iterating over data.
+
+Day 22: Reviewed different loop types and explored their strengths and weaknesses. When different loops are most useful. Week 2 began of the School of Code bootcamp where we met our new teams for the weeks and began the day with an engaging workshop on growth mindset. In the afternoon we looked at some JavaScript fundamentals and went through exerises to practice some of those basics. 
