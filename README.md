@@ -58,3 +58,5 @@ Day 24: Started the morning recapping object Methods and using the 'this' keywor
 Day 25: Our second Hackathon creating a rock,paper, scissors game. It was a super fun day where we created a working game of rock, paper, scissors and even managed to go above and beyond by manipulating the DOM to render it out which presented some challenges which we overcame for the most part. We definitely needed to continue to embed AGILE principles and get comfortable with that workflow and utilise githubs project management features more effectively. 
 
 Day 26: Embedded some of the weekly concepts learned using the exorcism platform which has been very enjoyable. 
+
+Day 27: Decided to start a portfolio project in order to build a central hub to display my projects. I completed the navbar and learnt about the css clamp feature to create responsive typography. 
