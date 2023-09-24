@@ -60,3 +60,17 @@ Day 25: Our second Hackathon creating a rock,paper, scissors game. It was a supe
 Day 26: Embedded some of the weekly concepts learned using the exorcism platform which has been very enjoyable. 
 
 Day 27: Decided to start a portfolio project in order to build a central hub to display my projects. I completed the navbar and learnt about the css clamp feature to create responsive typography. 
+
+Day 28: Completed the hero section of my personal portfolio that was responsive to different screen sizes. Started the third week of school of code confident, we looked at debugging and how to use the dev tools to help debug. We learnt about different error types and how we can use systematic processes to handle them. 
+
+Day 29: Completed the skills section, responsive to different screen sizes. During the bootcamp we focused on using JS to manipulate the DOM. We looked at grabbing, creating, and modifying different elements on the page. 
+
+Day 30: Completed codewars challenges and achieved the 5kyu rank! We focused on JavaScript events and how we can use eventListeners to create dynamic user interactions. We completed a series of challenges that utilised different events and other concepts that we had previously learnt in week two which was challenging but really rewarding. 
+
+Day 31: We recapped how we can get information from arrays and objects but utilising data sets which include several levels of nesting. Once we achieved that we looked at external API's and get requests using fetch, async functions, promises and await. This was a challenging day for me and I found understanding promises difficult, I did some extra reading in the evening in preparation for the hackathon where we would have to create our own weather application using an external API. 
+
+Day 32: Hackathon day went incredibly well and my team and I were very happy with what we managed to achieve. We create a fully functioning weather application which used an external weather API and rendered out the information onto a clean looking interface. Even after the day was over, I took it upon myself to hook up another geolocation API in order for users to be able to input a location and get the weather from that API. 
+
+Day 33: Completed the bootcamps weekend task which was to use another API and render out some information that had been displayed. I teamed up with another bootcamper and we used a Pokemon API to create our very own working Pokedex application. Using a Pokedex template, we hooked the API up to different elements and successfully rendered out the information we wanted to the pokedex. We were incredibly happy with the results. 
+
+
