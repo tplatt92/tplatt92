@@ -73,4 +73,5 @@ Day 32: Hackathon day went incredibly well and my team and I were very happy wit
 
 Day 33: Completed the bootcamps weekend task which was to use another API and render out some information that had been displayed. I teamed up with another bootcamper and we used a Pokemon API to create our very own working Pokedex application. Using a Pokedex template, we hooked the API up to different elements and successfully rendered out the information we wanted to the pokedex. We were incredibly happy with the results. 
 
+Day 34: Spent some time looking at ways to create animations and interesting SVGs. In the evening I started learning about Nodejs and npm. 
 
