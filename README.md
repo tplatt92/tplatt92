@@ -18,7 +18,7 @@ Languages and Tools:
 ![icons8-react-50](https://github.com/tplatt92/tplatt92/assets/118260849/4949473a-3a18-449d-838f-2ac94b2d6472)
 
 <details>
- <summary>-- Professional Experience </summary>
+ <summary>-- Professional Experience --</summary>
  <h2>School of Code Bootcamp</h2>
  
  Thanks to my immersive experience at the School of Code bootcamp, I am emerging with a robust skill set and a dynamic mindset. I've mastered cutting-edge programming languages like JavaScript and React, equipping me to tackle complex coding challenges with confidence. My problem-solving abilities have been honed through real-world projects, where I learned to be the architect of innovative solutions.
