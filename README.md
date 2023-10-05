@@ -17,9 +17,9 @@ Languages and Tools:
 ![icons8-nodejs-50 (1)](https://github.com/tplatt92/tplatt92/assets/118260849/d515d40a-6000-425b-ac10-7dec97fb1d2e)
 ![icons8-react-50](https://github.com/tplatt92/tplatt92/assets/118260849/4949473a-3a18-449d-838f-2ac94b2d6472)
 
-
--- 100 Days of Code Challenge --
-
+<details>
+<summary>-- 100 Days of Code Challenge --</summary>
+<br>
 Day 1: Continued with module 5 on Scrimba's front end career path - creating a twitter clone. Looked at Data attributes, how to create an interactive like button with counter. 
 
 Day 2: Continued with creating a very basic twitter clone. Explored conditional rendering of CSS and how initialise CSS styles using conditional statements in JavaScript. I created a like button which toggles a red heart, a retweet button which glows green when clicked and a reply button which renders the replies onto the page when clicked and hides them when clicked again. 
@@ -102,7 +102,7 @@ Day 40: Weekend project was to create our own functioning API on our own, I crea
 
 Day 41: Continued with the weekend project and managed not only to get each type of request working but connected it to the front end and manageed to build out a sleek design which could add and retrieve user data using query parameters. 
 
-
+</details>
 
 
 
