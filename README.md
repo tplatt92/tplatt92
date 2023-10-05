@@ -1,4 +1,4 @@
-![Header]("C:\Users\thoma\Documents\sideProjects\github-header-image (12).png")!
+![github-header](https://github.com/tplatt92/tplatt92/assets/118260849/851d8f9a-90a1-4cf8-a660-d4fcc2fe41a3)
 
 Hi there 👋, my name is Tom Platt. I am a bootcamp student at School of Code in the UK hoping to start a new career as a Front-End engineer. I love to design and create and currently diving into the world of JavaScript. 
 
@@ -6,6 +6,9 @@ Hi there 👋, my name is Tom Platt. I am a bootcamp student at School of Code i
 - 🌱 I’m currently learning about how to use API's. 
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: - https://www.linkedin.com/in/tom-platt-6b4a5a25a/
+
+  Languages and Tools:
+  
 
 -- 100 Days of Code Challenge --
 
@@ -76,4 +79,7 @@ Day 32: Hackathon day went incredibly well and my team and I were very happy wit
 Day 33: Completed the bootcamps weekend task which was to use another API and render out some information that had been displayed. I teamed up with another bootcamper and we used a Pokemon API to create our very own working Pokedex application. Using a Pokedex template, we hooked the API up to different elements and successfully rendered out the information we wanted to the pokedex. We were incredibly happy with the results. 
 
 Day 34: Spent some time looking at ways to create animations and interesting SVGs. In the evening I started learning about Nodejs and npm. 
+
+
+
 
