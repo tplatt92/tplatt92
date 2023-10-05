@@ -94,9 +94,6 @@ Day 40: Weekend project was to create our own functioning API on our own, I crea
 
 Day 41: Continued with the weekend project and managed not only to get each type of request working but connected it to the front end and manageed to build out a sleek design which could add and retrieve user data using query parameters. 
 
-Day 42: 
-
-Day 43:
 
 
 
