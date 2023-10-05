@@ -3,7 +3,7 @@
  I am a bootcamp student at School of Code in the UK hoping to start a new career as a full stack engineer. I love to design and create and currently diving into the world of databases and SQL. 
 
 - 🔭 I’m currently working on creating a personal portfolio page 
-- 🌱 I’m currently learning about how to use databass. 
+- 🌱 I’m currently learning about databases and SQL. 
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: - https://www.linkedin.com/in/tom-platt-6b4a5a25a/
 
@@ -17,6 +17,35 @@ Languages and Tools:
 ![icons8-nodejs-50 (1)](https://github.com/tplatt92/tplatt92/assets/118260849/d515d40a-6000-425b-ac10-7dec97fb1d2e)
 ![icons8-react-50](https://github.com/tplatt92/tplatt92/assets/118260849/4949473a-3a18-449d-838f-2ac94b2d6472)
 
+<details>
+ <summary>-- Professional Experience </summary>
+ <h2>School of Code Bootcamp</h2>
+ 
+ Thanks to my immersive experience at the School of Code bootcamp, I am emerging with a robust skill set and a dynamic mindset. I've mastered cutting-edge programming languages like JavaScript and React, equipping me to tackle complex coding challenges with confidence. My problem-solving abilities have been honed through real-world projects, where I learned to be the architect of innovative solutions.
+
+Collaboration and teamwork are second nature to me now, having worked closely with diverse, talented peers in an environment that fosters creativity and mutual support. I'm adept at agile methodologies, ensuring that I can adapt swiftly to evolving project requirements.
+
+The bootcamp not only taught me technical prowess but also emphasized soft skills. I've become an effective communicator, able to translate intricate technical jargon into comprehensible ideas for clients and team members alike. I’ve also developed resilience and adaptability, essential traits in the ever-changing tech landscape.
+
+In addition to these skills, the bootcamp instilled in me a passion for continuous learning. I understand the importance of staying updated with the latest technologies and industry trends. With my hands-on experience and dedication to growth, I am ready to contribute effectively to any tech-driven project or team.
+
+<h2>Primary School Teacher</h2>
+
+Drawing on my rich background as a dedicated primary school teacher with a decade of experience, I bring a unique set of skills and attributes to the world of software engineering.
+
+My years in the classroom have honed my communication abilities, enabling me to convey complex ideas with clarity and precision. I have a proven track record of adapting teaching methods to cater to diverse learning styles, showcasing my ability to tailor solutions to meet specific needs—a skill invaluable in programming, where understanding user requirements is crucial.
+
+Patience and perseverance are my hallmarks, virtues that have enabled me to guide young minds through challenges. In the realm of coding, this means I approach problem-solving with tenacity and a calm demeanor, critical for debugging and troubleshooting intricate software issues.
+
+Collaboration is at the heart of effective teaching, and I have cultivated the art of teamwork. I've led diverse groups of students and colleagues toward common goals, fostering a supportive environment where ideas flourish. These collaborative skills are directly applicable to agile development methodologies, ensuring seamless integration within a software engineering team.
+
+In a rapidly changing educational landscape, I've become adept at embracing new technologies and incorporating them into my teaching methods. This adaptability is a cornerstone in the tech industry, where staying current with programming languages and tools is vital.
+
+Moreover, my role demanded strong organizational skills to manage multiple tasks, deadlines, and diverse student needs. This aptitude for organization directly translates into efficient project management, ensuring that software development projects are completed on time and within scope.
+
+Above all, my passion for education has given me a love for learning. Transitioning to software engineering, I am not just armed with technical skills, but also with a growth mindset and the enthusiasm to continually explore and innovate. With my blend of pedagogical expertise and newfound technical acumen, I am poised to make a significant impact in the world of software engineering.
+
+</details>
 <details>
 <summary>-- 100 Days of Code Challenge --</summary>
 <br>
