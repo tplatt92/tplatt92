@@ -7,9 +7,8 @@
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: - https://www.linkedin.com/in/tom-platt-6b4a5a25a/
 
-  Languages and Tools:
+Languages and Tools:
 
-  
  
 ![icons8-html-50 (3)](https://github.com/tplatt92/tplatt92/assets/118260849/a41cd82b-3e2a-493d-bd4b-72ca3adf74c3)
 ![icons8-css-50 (2)](https://github.com/tplatt92/tplatt92/assets/118260849/3fe22a1d-2d09-4f63-83c8-ba552020705d)
