@@ -1,14 +1,23 @@
 ![github-header](https://github.com/tplatt92/tplatt92/assets/118260849/851d8f9a-90a1-4cf8-a660-d4fcc2fe41a3)
 
-Hi there 👋, my name is Tom Platt. I am a bootcamp student at School of Code in the UK hoping to start a new career as a Front-End engineer. I love to design and create and currently diving into the world of JavaScript. 
+ I am a bootcamp student at School of Code in the UK hoping to start a new career as a full stack engineer. I love to design and create and currently diving into the world of databases and SQL. 
 
 - 🔭 I’m currently working on creating a personal portfolio page 
-- 🌱 I’m currently learning about how to use API's. 
+- 🌱 I’m currently learning about how to use databass. 
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: - https://www.linkedin.com/in/tom-platt-6b4a5a25a/
 
   Languages and Tools:
+
   
+ 
+![icons8-html-50 (3)](https://github.com/tplatt92/tplatt92/assets/118260849/a41cd82b-3e2a-493d-bd4b-72ca3adf74c3)
+![icons8-css-50 (2)](https://github.com/tplatt92/tplatt92/assets/118260849/3fe22a1d-2d09-4f63-83c8-ba552020705d)
+![icons8-javascript-50 (3)](https://github.com/tplatt92/tplatt92/assets/118260849/eb0ecc7b-0473-4a75-9ad1-4a3c811dd67b)
+![icons8-sql-50 (1)](https://github.com/tplatt92/tplatt92/assets/118260849/62c867b9-5ec2-496d-867f-64f97ef7b43b)
+![icons8-nodejs-50 (1)](https://github.com/tplatt92/tplatt92/assets/118260849/d515d40a-6000-425b-ac10-7dec97fb1d2e)
+![icons8-react-50](https://github.com/tplatt92/tplatt92/assets/118260849/4949473a-3a18-449d-838f-2ac94b2d6472)
+
 
 -- 100 Days of Code Challenge --
 
