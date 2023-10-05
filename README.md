@@ -80,6 +80,24 @@ Day 33: Completed the bootcamps weekend task which was to use another API and re
 
 Day 34: Spent some time looking at ways to create animations and interesting SVGs. In the evening I started learning about Nodejs and npm. 
 
+Day 35: Refreshed our knowledge from the previous week on APIs and learned about the setTimeout and setInterval functions. We then created a working clock that was connecting to our locations real time. 
+
+Day 36: We were introduced to Nodejs and initial set up. How to initialise a node project and install different packages. 
+
+Day 37: Used nodejs to create CRUD functions that would form the basis of our API in the hackathon at the end of the week.
+
+Day 38: Introduced to expressjs to create our own server which would call upon different CRUD functions depending on what type of request would be created.
+
+Day 39: Hackathon day: We had to create our own API from scratch with crud functionality and different types of HTML requests. We were successful and managed to complete the task and even some stretch goals. We managed to hook the backend up to the front end using the cors package. We created a button which generated a random quote to the page using a get request that delivered an array of quotes and then selected one at random. 
+
+Day 40: Weekend project was to create our own functioning API on our own, I created CRUD functionality for an API that processed user data. 
+
+Day 41: Continued with the weekend project and managed not only to get each type of request working but connected it to the front end and manageed to build out a sleek design which could add and retrieve user data using query parameters. 
+
+Day 42: 
+
+Day 43:
+
 
 
 
