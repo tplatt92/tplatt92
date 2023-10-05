@@ -1,3 +1,4 @@
+![Header](/"C:/Users/thoma/Documents/sideProjects/github-header-image (12).png")
 Hi there 👋, my name is Tom Platt. I am a bootcamp student at School of Code in the UK hoping to start a new career as a Front-End engineer. I love to design and create and currently diving into the world of JavaScript. 
 
 - 🔭 I’m currently working on creating a personal portfolio page 
