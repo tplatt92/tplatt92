@@ -1,5 +1,5 @@
 ![github-header](https://github.com/tplatt92/tplatt92/assets/118260849/851d8f9a-90a1-4cf8-a660-d4fcc2fe41a3)
-
+<br><br>
 <h2>About me:</h2>
  I am a bootcamp student at School of Code in the UK hoping to start a new career as a full stack engineer. I love to design and create and currently diving into the world of databases and SQL. 
 
@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: - https://www.linkedin.com/in/tom-platt-6b4a5a25a/
 
+  <br>
 <h2>Languages and Tools:</h2>
 
  
@@ -18,7 +19,10 @@
 ![icons8-nodejs-50 (1)](https://github.com/tplatt92/tplatt92/assets/118260849/d515d40a-6000-425b-ac10-7dec97fb1d2e)
 ![icons8-react-50](https://github.com/tplatt92/tplatt92/assets/118260849/4949473a-3a18-449d-838f-2ac94b2d6472)
 
+<br>
+
 <h2>Other information:</h2>
+
 <details>
  <summary>-- Professional Experience --</summary>
  <h2>School of Code Bootcamp</h2>
