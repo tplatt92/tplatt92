@@ -137,6 +137,20 @@ Day 40: Weekend project was to create our own functioning API on our own, I crea
 
 Day 41: Continued with the weekend project and managed not only to get each type of request working but connected it to the front end and manageed to build out a sleek design which could add and retrieve user data using query parameters. 
 
+Day 42: Introduced to databases and why they are preferred to in situations over a JSON API. 
+
+Day 43: Started to learn SQL and how to create SQL query strings. Really enjoyed learning the syntax as it reads like english. We used a resource called SQL bolt to learn the basics. 
+
+Day 44: Continued with SQL bolt which taught us about more complex queries involving aggregate functions and then different table joins. Ended the day with a SQL murder mystery challenge which put our skills to the test.
+
+Day 45: Learnt about using nodejs to extract data from our database through different route handlers. 
+
+Day 46: Hackathon Friday. Our group worked so well together which meant for a stress free hackathon. We ensured that we completed it properly with everyone on the same page and no one being left behind. We managed to create our own SQL database with a CRUD functioning API and it worked without hiccups. Finished our destination section and introduced ourselves to scoll trigger animations. We managed to create stacking panels with a smooth scroll implemented and it looks fantastic. 
+
+Day 47: Completed the crew section on our space tourism site which included another scroll trigger animation. This time we wanted the panels to slide horizontally and we managed to achieve this after some teething issues. Overall we are really happy with it. 
+
+Day 48: Continued work on the space tourism site. Managed to get the technology page working and is now fully responsive. Just need to figure out a way to position the image and size it correctly.
+
 </details>
 
 
