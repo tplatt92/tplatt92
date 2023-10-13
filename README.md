@@ -151,6 +151,15 @@ Day 47: Completed the crew section on our space tourism site which included anot
 
 Day 48: Continued work on the space tourism site. Managed to get the technology page working and is now fully responsive. Just need to figure out a way to position the image and size it correctly.
 
+Day 49: We were introduced to testing and had a guest lecture on the imoportance of Test Driven Development and the advantages of automated testing rather than manual tesing. At the end of the day I filtered through our space projects and pruned unneccessary pieces of code. 
+
+Day 50: We learnt about Unit testing using vitest. I really enjoyed today as we got to put out JS skills into practice by writing an ever increasingly complex function. What was difficult was remembering to use Test Driven Development priciples and ensure that we write the test first before we write any code. Although this seemed counterintuitive, I can appreciate the power of it and will start incorporating it into my working practices. 
+
+Day 51: Today we learnt about end to end testing looking at user flows and how we can test that they work as expected using Playwright. This was a really interesting tool that includes a useful GUI that shows you what your tests are doing. We looked at how to use different locators, actions and assertions. Started to learn react and began the react library course of FreeCodeCamp.
+
+Day 52: Looked into API testing using a combination of different testing packages like vitest and supertest. It was really interesting to see how we could similate different requests and automate them rather than using thunderclient. Continued with the React course into the evening. 
+
+
 </details>
 
 
