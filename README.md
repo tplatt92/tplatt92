@@ -4,7 +4,7 @@
  I am a bootcamp student at School of Code in the UK hoping to start a new career as a full stack engineer. I love to design and create and currently diving into the world of databases and SQL. 
 
 - 🔭 I’m currently working on creating a personal portfolio page 
-- 🌱 I’m currently learning about databases and SQL. 
+- 🌱 I’m currently learning about Test Driven Development and ReactJS. 
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: - https://www.linkedin.com/in/tom-platt-6b4a5a25a/
 
