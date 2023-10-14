@@ -159,6 +159,10 @@ Day 51: Today we learnt about end to end testing looking at user flows and how w
 
 Day 52: Looked into API testing using a combination of different testing packages like vitest and supertest. It was really interesting to see how we could similate different requests and automate them rather than using thunderclient. Continued with the React course into the evening. 
 
+Day 53: Complete the hackathon which included building out a string of tests for an API as well as an end to end test for a user flow. This was the most difficult hackathon yet but we came out the other side smiling and had such a fun time. 
+
+Day 54: Created a plan for our next project which we will use a variety of new technologies. This is a free lance portfolio projects for a business that will utilise the website. This is a collaborative project with a fellow bootcamper and being led by an experience software engineer. I am so excited to be a part of this project and learning about React development. 
+
 
 </details>
 
