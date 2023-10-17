@@ -1,4 +1,4 @@
-![tom platt (1)](https://github.com/tplatt92/tplatt92/assets/118260849/8c0b0d0d-ddaa-4eac-bbd4-ccb52eaec9ce)
+![tom platt (6)](https://github.com/tplatt92/tplatt92/assets/118260849/d96c68a2-cecc-4036-9e67-641c2fe6aa4a)
 
 <h2>About me:</h2>
  I am a bootcamp student at School of Code in the UK hoping to start a new career as a full stack engineer. I love to design and create and currently diving into the world of databases and SQL. 
