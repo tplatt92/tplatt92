@@ -1,4 +1,6 @@
-![github-header](https://github.com/tplatt92/tplatt92/assets/118260849/851d8f9a-90a1-4cf8-a660-d4fcc2fe41a3)
+![tom platt (1)](https://github.com/tplatt92/tplatt92/assets/118260849/8c0b0d0d-ddaa-4eac-bbd4-ccb52eaec9ce)
+
+
 <br><br>
 <h2>About me:</h2>
  I am a bootcamp student at School of Code in the UK hoping to start a new career as a full stack engineer. I love to design and create and currently diving into the world of databases and SQL. 
