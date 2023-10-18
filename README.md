@@ -163,6 +163,12 @@ Day 53: Complete the hackathon which included building out a string of tests for
 
 Day 54: Created a plan for our next project which we will use a variety of new technologies. This is a free lance portfolio projects for a business that will utilise the website. This is a collaborative project with a fellow bootcamper and being led by an experience software engineer. I am so excited to be a part of this project and learning about React development. 
 
+Day 55: Learnt all about props in React and how to pass props down from parents to child components. This culminated in making a small travel journal app which rendered data passed in as props to a card component. 
+
+Day 56: Learnt about Product and Agile teams in great detail and how companies think they are agile but they aren't truly. I can see the value of product teams and how empowering engineers and including them in the whole process is invaluable. 
+
+Day 57: Conducted our own user research to determine what whether bootcampers experienced imposter syndrome and why they might feel this way. We created our own survey and then user personnas, finally some solution ideation. 
+
 
 </details>
 
