@@ -169,6 +169,16 @@ Day 56: Learnt about Product and Agile teams in great detail and how companies t
 
 Day 57: Conducted our own user research to determine what whether bootcampers experienced imposter syndrome and why they might feel this way. We created our own survey and then user personnas, finally some solution ideation. 
 
+Day 58: After looking at the user experience we then had a day of focusing on UI design. We created a UI in figma for the solution to our problem from the previous day. We created low and high fidelity wireframes for each section of our application. 
+
+Day 59: Hackathon day 1: our copycat challenge was to create the BBC sport website. We decided to go from top to bottom ensuring that each section was how we wanted it to be before moving onto the next one. We managed to get both navigation bars and the main news content completed.
+
+Day 60: Hackathon day 2: we completed socials and both footer sections of the page and fine tuned some of our spacing. We then looked at interactivity, created live animations, active animations and even a functioning mobile navigation bar. 
+
+Day 61: Started Scrimbas introducton to TypeScript course, learnt about primitive types and their use cases within typescript. 
+
+Day 62: Continued with the TypeScript course. Focusing on structural types. 
+
 
 </details>
 
