@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on creating a personal portfolio page 
 - 🌱 I’m currently learning about Test Driven Development and ReactJS. 
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
-- 📫 How to reach me: - https://www.linkedin.com/in/thomasjplatt/
+- 📫 How to reach me: - https://www.linkedin.com/in/thomasjplatt/  /   https://tomplatt.netlify.app/
 
   <br>
 <h2>Languages and Tools:</h2>
