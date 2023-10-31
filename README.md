@@ -179,6 +179,24 @@ Day 61: Started Scrimbas introducton to TypeScript course, learnt about primitiv
 
 Day 62: Continued with the TypeScript course. Focusing on structural types. 
 
+Day 63: Midterm project week kicked off. Met our teams, created a team manifesto and completed problem ideation for the week ahead. Decided to focus on the problem that bootcampers had when networking and organising events. Completed some user research and started user stories. 
+
+Day 64: Continued with user stories and completed our UI design and created a Kanban board for tasks to approach the build tomorrow. 
+
+Day 65: Split into frontend and backend teams and collaboarated incredibly well, we tried to work in an agile way implementing one feature at a time and reviewing each feature together. We were able to reach our MVP after day one, day two we will be able to work on our stretch goals. 
+
+Day 66: Continued with our build and managed to complete some challenging stretch goals. We managed to create live patch requests that would be reflected both in the DOM display and reflect in the database. 
+
+Day 67: Demo day went very well. We created a cohesive presentation that told our story and were able to demo what we had built to multiple industry professionals. It was incredibly rewarding to get the constructive feedback from the judges to take into our next project. 
+
+Day 68: Read about react router and custom hooks. 
+
+Day 69: Completed my personal portfolio and solved grid issues, also fixed issues with the contact form and deployed it to netlify!
+
+Day 70: Reflections on the previous week then did a learning audit from the previous 8 weeks. Wanted to go over APIs and started the API module on Scrimba.
+
+Day 71: Continued with Scrimba's API course. Learnt about pure promise syntax and recapped on using fetch. 
+
 
 </details>
 
