@@ -191,11 +191,15 @@ Day 67: Demo day went very well. We created a cohesive presentation that told ou
 
 Day 68: Read about react router and custom hooks. 
 
-Day 69: Completed my personal portfolio and solved grid issues, also fixed issues with the contact form and deployed it to netlify!
+Day 69: Completed my personal portfolio and solved grid issues, also fixed issues with the contact form and deployed it to netlify! In a private react project managed to create a navbar than renders conditionally, it was such a dopamine rush when we saw it change on the screen. We were so overjoyed.
 
-Day 70: Reflections on the previous week then did a learning audit from the previous 8 weeks. Wanted to go over APIs and started the API module on Scrimba.
+Day 70: Reflections on the previous week then did a learning audit from the previous 8 weeks. Wanted to go over APIs and started the API module on Scrimba. Similar to the previous day we implemented a search bar to filter the feed live as we type. This was a real headscratcher but again incredibly rewarding once we managed to complete it. 
 
-Day 71: Continued with Scrimba's API course. Learnt about pure promise syntax and recapped on using fetch. 
+Day 71: Continued with Scrimba's API course. Learnt about pure promise syntax and recapped on using fetch. Completed several codewars challenges. 
+
+Day 72: Completed more codewars challenges and looked at different tools to deploy our applications. We utilised render to deploy the backend and vercel to deploy the frontend and edited our application to fetch the data from the hosted URL. 
+
+Day 73: Spend the day gaining surface knowledge of AWS and completed AWS cloud quest. I am 2/3 of the way to completed the Cloud Pracitioner certification and hope to complete it soon. It was quite overwhelming to see how vast AWS is but interesting nontheless. Completed filter functions on a private React project and fine tuned a search function. Edited folder structure and cleaned up the codebase.
 
 
 </details>
