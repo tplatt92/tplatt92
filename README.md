@@ -201,6 +201,18 @@ Day 72: Completed more codewars challenges and looked at different tools to depl
 
 Day 73: Spend the day gaining surface knowledge of AWS and completed AWS cloud quest. I am 2/3 of the way to completed the Cloud Pracitioner certification and hope to complete it soon. It was quite overwhelming to see how vast AWS is but interesting nontheless. Completed filter functions on a private React project and fine tuned a search function. Edited folder structure and cleaned up the codebase.
 
+Day 74: Completed a hackathon where we were given a day to complete a full stack application of three choices. We decided that we would do a personal budgeting application. I got to work on the backend this time as I wanted to put myself out of my comfort zone and really enjoyed myself. There were a few debugging issues with the odd rogue comma or semi-colon destroying the SQL commands, but we got there in the end. Overall we were happy with what we managed to get done, able to display transactions fetched from a DB as well as functionality to add a new transaction. 
+
+Day 75: Spend the day completing codewars challenges, felt like a nice break doing a lot of work on projects and was great to refresh the fundamentals.
+
+Day 76: Created a graphQL CMS for the React project. We hooked it up to and successfully fetched the content from the CMS will little trouble. It was great to get some practice with the useEffect hook. Hygraph is a really easy to use and intuitive tool for content management. It made everything very simple. 
+
+Day 77: React week was finally here! We got an introduction to how to think like a react developer, looking at imperative vs declarative code. We looked at how to install React and set it up using create react app and vite. I was really looking forward to this week as I had put so much work into learning React in the weeks prior, so was hoping that it would pay dividens. 
+
+Day 78: We were tasked with building a basic flashcard application with 5 different components. We were told on day one tha we just needed to render out the look and feel of the page rather than the functionality. We decided amongst our group that we wanted to try tailwind CSS along with this and it was a breeze. I personally really enjoyed the way tailwind worked and how easy it made styling content on the page. I have a good handle on css so found the transition easy with a little help from a cheatsheet and intellisense.
+
+Day 79: We created the functionality of the application and were introduced to props and state. This is were my previous work really came into its own. State and props were difficult concepts to get down but since I had practiced it I was able to problem solve my way around managing state and being able to pass state as probs between components so flashcard could change from question to answer, as well as being able to create and delete a new flashcard. I really enjoyed this challenge and it made me feel confident when I was able to clearly explain these concepts to my team. 
+
 
 </details>
 
