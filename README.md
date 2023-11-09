@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: - https://www.linkedin.com/in/thomasjplatt/  /   https://tomplatt.netlify.app/
 
+  
   <br>
 <h2>Languages and Tools:</h2>
 
@@ -20,6 +21,7 @@
 ![icons8-react-50](https://github.com/tplatt92/tplatt92/assets/118260849/4949473a-3a18-449d-838f-2ac94b2d6472)
 
 <br>
+
 
 <h2>Other information:</h2>
 
@@ -216,5 +218,6 @@ Day 79: We created the functionality of the application and were introduced to p
 
 </details>
 
-
+<br>
+<img src="https://www.codewars.com/users/tplatt92/badges/large">
 
