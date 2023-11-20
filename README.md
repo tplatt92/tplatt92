@@ -215,6 +215,30 @@ Day 78: We were tasked with building a basic flashcard application with 5 differ
 
 Day 79: We created the functionality of the application and were introduced to props and state. This is were my previous work really came into its own. State and props were difficult concepts to get down but since I had practiced it I was able to problem solve my way around managing state and being able to pass state as probs between components so flashcard could change from question to answer, as well as being able to create and delete a new flashcard. I really enjoyed this challenge and it made me feel confident when I was able to clearly explain these concepts to my team. 
 
+Day 80: Continued with the days previous challenge and completed several stretch goals. I created a filter bar to filter the flashcards by difficulty. I also enabled the ability to edit the content of each flashcard with an edit button. 
+
+Day 81: Hackathon - Our challenge was to create an SPA using react. Our only objectives were to render out some data onto the page and manipulate that data in some way. We chose to create a blogging app to log our 100 day of code. We utilised Tailwind in order to style out the application which we found much easier to deal with. Overall it was a successful day, we worked really well together as a team and produced an application tha allowed for the creation and deletion of a blog onto a feed. 
+
+Day 82: Added more to the blogging app including a filter bar which sorted the blogs based upon their subject matter. I also added the ability to like a blog post. 
+
+Day 83: Added the ability to click into a particular blog from the feed to detail its contenxt. 
+
+Day 84: useEffect - useEffect was a hook that I will admit that I did struggle to get the grasp of. It hurt my brain when trying to think of what dependencies the effect relied upon and when it should re-run. It is something I definitely need to go over but we managed to successfully fetch data from an API using useEffect and render it to the page. 
+
+Day 86: useContext / custom hooks - After experiencing the frustrations of prop drilling in my own projects. It was interesting to learn about useContext in order to share values across the whole codebase. It was also interesting to hear that it is not uncommon to see prop drilling of up to 10 components deep (a no from me). Using custom hooks would also become incredibly useful when extracting complex logic that is making components difficult to read. 
+
+Day 87: Component testing with jest - We were taken back to week 6 when we first learnt how to write unit tests using Vitest. We would this time be testing components using Jest and it was good to go over familiar concepts and learn how to apply them with a different technology. We tested for different values and managed to get onto testing whether functions were called. 
+
+Day 88: Hackathon NextJS - We were tasked in groups of 6 to create an application using a technology that we had never used before: NextJS. We were given two days to learn and demonstrate the features of NextJS in an application of our choice. We decided upon creating a ticketing application for bootcampers to ask for help when they needed it. We also decided on implementing NextJS powerful server side rendering, image and font optimizaion, file based routing system and loading state pages. We learnt through reading the NextJS documentation and suplemented those learnings with videos on youtube, pausing to ask qualifying questions when needed. We also made a thorough plan: wireframing and breaking down tasks for the build tomorrow. 
+
+Day 89: Hackathon Continued - We split into two different teams and worked on different components within the application, we moved around teams throughout the day to ensure that everyone had a good understanding of the whole codebase. We met regularly throughout the day to give updates on progress and test integration. We then presented at the end of the day managing to achieve a really nicely designed and functioning MVP. If we had more time, adding authetication would have been something that would have been great to try out. 
+
+Day 90: Made plans to migrate a site that we had created in React to NextJs.
+
+Day 91: Prepared for the week ahead and watched some videos on cryptographic hashing functions. I learnt that they are purposely slow functions that are impossible to invert. They take in an input and scramble it to create a completely unique value that is unrecognisable from the input. It is important to note that the same input must result in the same hashed value. Extra layers of security can be added by adding a SALT to the passwork before it is hashed. A salt is a random string of letters added to the password to ensure it is unique. 
+
+Day 92: Authentication and authorizaion. We learnt the differences between the two. Authentication is the process of verifying who a user is and authorizaion determines what a user has access to. We looked into token and session based authentication. In the evening I looked into Auth0 and implemented it into a sample application including single sign on using google and socials. 
+
 
 </details>
 
