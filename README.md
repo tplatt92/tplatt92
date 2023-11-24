@@ -237,7 +237,15 @@ Day 90: Made plans to migrate a site that we had created in React to NextJs.
 
 Day 91: Prepared for the week ahead and watched some videos on cryptographic hashing functions. I learnt that they are purposely slow functions that are impossible to invert. They take in an input and scramble it to create a completely unique value that is unrecognisable from the input. It is important to note that the same input must result in the same hashed value. Extra layers of security can be added by adding a SALT to the passwork before it is hashed. A salt is a random string of letters added to the password to ensure it is unique. 
 
-Day 92: Authentication and authorizaion. We learnt the differences between the two. Authentication is the process of verifying who a user is and authorizaion determines what a user has access to. We looked into token and session based authentication. In the evening I looked into Auth0 and implemented it into a sample application including single sign on using google and socials. 
+Day 92: Authentication and authorizaion. We learnt the differences between the two. Authentication is the process of verifying who a user is and authorizaion determines what a user has access to. We looked into token and session based authentication. In the evening I looked into Auth0 and implemented it into a sample application including single sign on using google and socials.
+
+Day 93: Learnt about an authentication tool named Supabase and implemented authentication into a simple application. We looked at authorization policies and created different policies to give users access to different parts of our data. For instance we allowed users to view the data but not update, edit or delete it. 
+
+Day 94: Started to learn about Typescript in the morning and looked over what strictly typed languages allow us to do. On larger projects I can definitely see the benefit of using typescript, it provides extra assurance that the written code will only be used as intended, adding a extra level of security. It is definitely something I will be looking to implement with our frinal projects coming up. In the aftenoon we were introduced to our final project teams. We created a manifesto and generated some final project ideas. 
+
+Day 95: Continued with typescript and completed a workshop. We had to change a JS application into TypeScript which I found useful. We also created a very simple typescript application, again I found it useful as it forced me to really think about the functions I was writing and helped me to understand it to a greater extent. 
+
+
 
 
 </details>
