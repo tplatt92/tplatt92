@@ -249,6 +249,18 @@ Day 94: Started to learn about Typescript in the morning and looked over what st
 
 Day 95: Continued with typescript and completed a workshop. We had to change a JS application into TypeScript which I found useful. We also created a very simple typescript application, again I found it useful as it forced me to really think about the functions I was writing and helped me to understand it to a greater extent. 
 
+Day 96: TypeScript Hackathon - We created a higher or lower application where we fetched data from a currency exchange API and then compared currencies against each other. We found TypeScript good to work with and all errors we encountered were easily solved with a little bit of research. 
+
+Day 97: Completed a series of Jest unit tests for our project. We encountered several issues and learnt to use Jests mocking features to create data and mock fetches. 
+
+Day 98: Continued with unit testing, finished with good coverage of all components and enjoyed the testing experience overall.
+
+Day 99: Day 1 final projects - We found out that we had been given a brief for a business which was incredibly exciting. Over the next four weeks we will be undertaking an exercise in product delivery based on the problem that has been presented to us by the client. We will then demo what we have managed to achieve at the end of the four weeks to other businesses. In the evening we completed end to end testing using cypress, this was a smooth experience and really enjoyed working with the tech. I will definitely be implementing it in my future projects. 
+
+Day 100: Day 2 Final project - Exploring the problem. After our initial meetings we gathered our thoughts and looked at what the core problem was we were trying to solve. We then did some user research, competitor research and collated some suggestions to bring back to the client. We then created user stories based upon our findings to allow us to reach an MVP. 
+
+Date completed - 28/11/2023
+
 
 
 
