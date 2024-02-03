@@ -4,7 +4,7 @@
  I am a bootcamp student at School of Code in the UK hoping to start a new career as a full stack engineer. I love to design and create and currently diving into the world of databases and SQL. 
 
 - 🔭 I’m currently working on developing an app using the MERN stack.  
-- 🌱 I’m currently learning about MongoDB and No-SQL Databases. 
+- 🌱 I’m currently learning about MongoDB and No-SQL Databases, along with backend design patterns. 
 - 👯 I’m looking to collaborate on any open source project that my skill level will allow me to contribute towards. 
 - 📫 How to reach me: -    https://tomplatt.netlify.app/
 
